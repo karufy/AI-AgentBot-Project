@@ -1,32 +1,33 @@
-# FIT'N'FRENDZ 💪🤝
+# WIZARDRY AI 💪🤝
 Welcome to the AI Prompt Engineering and ChatBot repository! This project leverages advanced AI technologies to create dynamic and insightful business strategies.
 
 ## Project Overview
-This repository contains the codebasefor the application, an innovative AI-powered sales and marketing platform designed to revolutionize business insights and strategy development.
+This repository contains the codebase for the application, an innovative AI-powered sales pitch platform designed to revolutionize business insights and strategy development.
 
 🚀 Features
 
 - **AI-Powered Sales Pitch Generation:** Generate compelling sales pitches tailored to your business needs.
 - **Competitor Analysis:** Gain insights into your competitors with detailed analysis and visualizations.
 - **Business Strategy Insights:** Access strategic insights to drive your company's growth and success.
-- **Dynamic company research 
+- **Dynamic Company Research:** Automatic evaluation of uploaded documentation. 
 - **User-Friendly Interface:** A seamless experience using the Streamlit platform.
 
 ## Prerequisites
 Development Environment
 
-Python 3.8+
+Python 3.13+
 VSCode
-Streamlit
+StreamLit
 LangChain
-GroQ API Key
+GroQ
+Tavily
 
 ## Installation
 
 Clone the repository
 
-bashCopygit clone https://github.com/yourusername/fitnfrendz.git
-cd fitnfrendz
+bashCopygit clone (https://github.com/karufy/AI-AgentBot-Project)
+cd capstoneai
 
 Create virtual environment
 
@@ -73,35 +74,31 @@ Commit changes (git commit -m 'Add some AmazingFeature')
 Push to branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-License
-Distributed under the MIT License. See LICENSE for more information.
-Contact
-
-Project Link: https://github.com/yourusername/fitnfrendz
-Email: support@fitnfrendz.com
-
-Acknowledgements
+## Acknowledgements
 
 Streamlit
 LangChain
 GroQ
-Tavily Search
-
-
-Built with 💖 by FIT'N'FRENDZ Team
+Tavily
 
 
 IDE: Visual Studio Code
-Language: (Your preferred programming language, e.g., Python, JavaScript)
-Framework: (If applicable, e.g., Django, React, Vue)
-Contributing:
+Language: (Python, Bash)
+Framework: (StreamLit)
+
+## Contributing:
 
 We welcome contributions from the community! If you have any improvements or bug fixes, please feel free to submit a pull request.
 
-License:
+## License:
 
-This project is licensed under the MIT License.   
+This project is distributed under the BOZZ License.   
 
-Contact:
+## Contact:
 
-For any questions or feedback, please reach out to the FIT'N'FRENDZ team at (Specify contact information). 
+For any questions or feedback, please reach out to the WIZARDRY team at:
+
+Project Link: https://github.com/karufy/AI-AgentBot-Project
+Email: ugobozz99@gmail.com
+
+## Built with 💖 by WIZARDRY AI Team

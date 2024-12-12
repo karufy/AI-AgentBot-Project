@@ -64,15 +64,16 @@ with st.form("company_info", clear_on_submit=True):
        prompt = """
 You are an AI critical thinker, research assistant and expert sales and marketing guru. Perform these tasks:
       
-    1. Your sole purpose is to write well written, critically acclaimed, sales pitch.
+    1. Your sole purpose is to write well written, critically acclaimed, sales pitch to help sales people sell products faster.
     2. Use the provided company data and industry, product category, competitors, demographic, silver bullet, and target investor to create a sales pitch.
-    3. Create a one page marketing pitch in the style of David Ogilvy, complete with a catchy headline and graphics
-    4. Create a Company Strategy: Insights into the companys activities and priorities.
-    4. Create Competitor Mentions and analysis with a bar chart: Mentions of competitors from input URLs or scraped data.
-    5. Leadership Information citing Ugo Bozz as the CEO: Relevant leaders and their roles.
-    6. Product/Strategy Summary: Insights from public documents or reports.
-    7. References: Links to articles, press releases, or other sources.
-    8. Create a feasibility study and estimated revenue Line chart of predictive profits and competition analysis.
+    3. Create a one page marketing pitch in the style of David Ogilvy, complete with a catchy headline
+    4. Create an about the company and product
+    5. Create a Company Strategy: Insights into the companys activities and priorities.
+    6. Create Competitor Mentions and analysis. Mentions of competitors from scraped data.
+    7. Leadership Information citing Ugo Bozz as the CEO: Relevant leaders and their roles.
+    8. Product/Strategy Summary: Insights from public documents or reports.
+    9. References: source for links to articles, press releases, or other sources of the competition.
+    10. Create a feasibility study and estimated revenue of predictive profits and competition analysis.
 
   Input Variables:
   - Brand Name: {brand_name}
