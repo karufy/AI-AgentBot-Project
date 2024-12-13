@@ -19,7 +19,7 @@ st.sidebar.write("GroQ...  OpenAI...  StreamLit... ")
 st.sidebar.write("")
 st.sidebar.write("")
 st.sidebar.page_link("app.py", label="Home", icon="🏠")
-st.sidebar.page_link("https://github.com/karufy/My_Portfolio.github.io", label="GitHub", icon="🌎")
+st.sidebar.page_link("https://github.com/karufy/My_Portfolio.github.io", label="GitHub", icon="🇬🇭")
 st.sidebar.page_link("https://karufy.github.io/My_Portfolio.github.io/", label="Portfolio", icon="👷‍♂️")
 st.sidebar.write("")
 st.sidebar.write("")
@@ -66,16 +66,16 @@ You are an AI critical thinker, research assistant and expert sales and marketin
     Make the header all caps and bold anddivide sections with lines  
     1. Your sole purpose is to write well written, critically acclaimed, sales pitch to help sales people sell products faster.
     2. Use the provided company data and industry, product category, competitors, demographic, silver bullet, and target investor to create a sales pitch.
-    3. Create a one page marketing pitch in the style of David Ogilvy, cincorporate a catchy headline
+    3. Create a one page marketing pitch in the style of David Ogilvy, incorporate a catchy headline
     4. Create an about the company and product
-    5. Create a Company Strategy: Insights into the companys activities and priorities.
+    5. Create a Company Strategy: Insights into the company's activities and priorities.
     6. Leadership Information citing Ugo Bozz as the CEO: Relevant leaders and their roles.
     7. Product/Strategy Summary: Insights from public documents or reports.
     8. Create a feasibility study and competitor analysis in a table using the example below:
     Example table format:
     | Competitor | Delivery Mode       | Cost  | Comparison to Your Product
     9. Create Competitor Mentions and analysis. Mentions of competitors from scraped data.
-    10.Trend Analysis using scraped data from google's treend analyzer .
+    10.Trend Analysis using scraped data from google's trend analyzer .
     11.Market Share Analysis: Scrape data from google marketplaces and analyze the market share, market size and potential growth of your product.
     12.Laud the target investors keen eye for profitable ventures and state why this product would be a great addition to their portfolio
     13.References: source for links to articles, press releases, or other sources of the competition.
